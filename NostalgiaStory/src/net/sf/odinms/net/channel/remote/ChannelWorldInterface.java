@@ -28,9 +28,11 @@ package net.sf.odinms.net.channel.remote;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;
+import java.util.List;
 
 import net.sf.odinms.client.BuddyList.BuddyAddResult;
 import net.sf.odinms.client.BuddyList.BuddyOperation;
+import net.sf.odinms.net.MaplePacket;
 import net.sf.odinms.net.world.MapleParty;
 import net.sf.odinms.net.world.MaplePartyCharacter;
 import net.sf.odinms.net.world.PartyOperation;

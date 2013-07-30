@@ -23,6 +23,7 @@ package net.sf.odinms.tools;
 import java.awt.Point;
 import java.awt.Rectangle;
 import java.net.InetAddress;
+import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
