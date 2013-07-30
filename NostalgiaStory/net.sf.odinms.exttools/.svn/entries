@@ -1,0 +1,55 @@
+8
+
+dir
+932
+https://odinms.svn.sourceforge.net/svnroot/odinms/odinms/trunk/net.sf.odinms.exttools
+https://odinms.svn.sourceforge.net/svnroot/odinms
+
+
+
+2008-05-10T00:59:44.651933Z
+916
+frzme
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5ef53f0d-f60c-4604-b993-9012e4bbd747
+
+.classpath
+file
+
+
+
+
+2008-05-10T22:39:49.718750Z
+e31886427e46e7b663b0f88b3e6a4fa7
+2007-11-25T01:52:38.454460Z
+351
+Frz
+
+.project
+file
+
+
+
+
+2008-05-10T22:39:49.734375Z
+1fbc8484e45c0a620ec106d3e949dee0
+2007-11-23T17:48:00.266310Z
+345
+Frz
+
+src
+dir
+

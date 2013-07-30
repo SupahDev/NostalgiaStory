@@ -1,0 +1,52 @@
+8
+
+dir
+932
+https://odinms.svn.sourceforge.net/svnroot/odinms/odinms/trunk/net.sf.odinms.exttools/src/net/sf/odinms/exttools/update/step
+https://odinms.svn.sourceforge.net/svnroot/odinms
+
+
+
+2008-05-08T18:15:46.921486Z
+909
+matze0007
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5ef53f0d-f60c-4604-b993-9012e4bbd747
+
+Version_0_5_1.java
+file
+
+
+
+
+2008-05-10T22:39:47.640625Z
+e906d37c34a99d420228e6ee1465b879
+2008-05-08T18:15:46.921486Z
+909
+matze0007
+
+UpdateStep.java
+file
+
+
+
+
+2008-05-10T22:39:47.656250Z
+6868489e7e2250a1c05fe2952ec80378
+2008-05-03T15:07:47.804301Z
+897
+matze0007
+
